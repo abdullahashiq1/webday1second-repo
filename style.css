@@ -1,4 +1,9 @@
 h1 {
     background-color:antiquewhite;
     border-radius: 5%;
+    text-align: center;
+}
+.acre {
+    font-weight: 300;
+    font-size:30px;
 }
